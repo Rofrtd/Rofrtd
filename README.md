@@ -1,6 +1,6 @@
 # Romy Furtado 👋
 
-Welcome to my GitHub profile, I'm a Junior Software Developer at **ASSIGNAR** :computer:
+Welcome to my GitHub profile, I'm a Junior Software Developer at [ASSIGNAR](https://www.assignar.com/) :computer:
 
  <br/>  :rocket: &nbsp; I’m currently working on Assignar's mobile app using Typescript, Ionic, React, Jest, GraphQL...
  <br/> :email: &nbsp; How to reach me: <br />
