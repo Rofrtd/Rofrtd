@@ -4,7 +4,6 @@ A Software Engineer, Electronics Technician and musician, based in Australia.
 <br/>
 <br/>
 #### Currently working on:
-<a href="https://www.assignar.com/" target ="_blank"> <img align="left" width="40px" src="https://user-images.githubusercontent.com/25412194/144928944-09690514-9a17-4b51-8a14-5c6f656a7045.png" /> </a>
 
 <a href="https://www.sunflower-farmers.com/" target ="_blank"> <img align="left" width="30px" src="https://user-images.githubusercontent.com/25412194/149846248-897c1ac0-03b9-4323-9242-78d8cedfd316.gif" /> </a>
 <br/>
