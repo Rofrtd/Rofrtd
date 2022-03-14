@@ -1,6 +1,6 @@
 # Hi there, I'm Romy Furtado 👋
 
-A Software Engineer, Electronics Technician and musician, based in Australia.
+A Software Engineer and musician, based in Australia.
 <br/>
 <br/>
 #### Currently working on:
