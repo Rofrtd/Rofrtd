@@ -1,6 +1,6 @@
 # Hi there, I'm Romy Furtado 👋
 
-Founder Software Engineer <a href="https://www.sunflower-farmers.com/" target ="_blank"> <img align="left" width="30px" src="https://user-images.githubusercontent.com/25412194/149846248-897c1ac0-03b9-4323-9242-78d8cedfd316.gif" /> </a>
+Founding Software Engineer <a href="https://www.sunflower-farmers.com/" target ="_blank"> <img align="left" width="30px" src="https://user-images.githubusercontent.com/25412194/149846248-897c1ac0-03b9-4323-9242-78d8cedfd316.gif" /> </a>
 <br/>
 <br/>
 
