@@ -1,6 +1,6 @@
 # Hi there, I'm Romy Furtado 👋
 
-Founder at Casa Connect <a href="https://www.sunflower-farmers.com/" target ="_blank"> <img align="left" width="30px" src="https://github.com/Rofrtd/Rofrtd/assets/25412194/eef5054e-22ed-4392-a427-14d1768a6d50" /> </a>
+Founder at Casa Connect <a href="https://casaconnect.app/" target ="_blank"> <img align="left" width="30px" src="https://github.com/Rofrtd/Rofrtd/assets/25412194/eef5054e-22ed-4392-a427-14d1768a6d50" /> </a>
 <br/>
 <br/>
 
